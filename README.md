@@ -106,86 +106,86 @@ https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10
 
 
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>> LOKAL
+//copy right by,@hometv menampilkan playlist >>> INDONESIA 2
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",TRANS 7 Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="INDONESIA 2",TRANS 7 Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",TRANS TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="INDONESIA 2",TRANS TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto", Indosiar (F*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA 2", Indosiar (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto", Indosiar (V*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA 2", Indosiar (V*)
 http://tvnid.x10.mx/vidio/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",SCTV SD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="INDONESIA 2",SCTV SD
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",RCTI Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="INDONESIA 2",RCTI Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",MNC TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="INDONESIA 2",MNC TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",GTV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="INDONESIA 2",GTV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",iNEWS Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="INDONESIA 2",iNEWS Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",TV ONE Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="INDONESIA 2",TV ONE Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",ANTV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="INDONESIA 2",ANTV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",NET TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="INDONESIA 2",NET TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",METRO TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="INDONESIA 2",METRO TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/kompastv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",KOMPAS TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/kompastv.jpg" group-title="INDONESIA 2",KOMPAS TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",RTV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="INDONESIA 2",RTV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/beritasatu.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",BERITA SATU Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/beritasatu.jpg" group-title="INDONESIA 2",BERITA SATU Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sindo_news.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",SINDO NEWS Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sindo_news.jpg" group-title="INDONESIA 2",SINDO NEWS Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.jpg" group-title="INDONESIA 2",CNN INDONESIA
 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3432.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.jpg" group-title="INDONESIA 2",CNBC INDONESIA
 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3433.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvri.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",TVRI
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvri.jpg" group-title="INDONESIA 2",TVRI
 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3434.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/jaktv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",JAK TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/jaktv.jpg" group-title="INDONESIA 2",JAK TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",USEE PRIME Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="INDONESIA 2",USEE PRIME Auto Resolusi
 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3435.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/daaitv.jpg" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",DAAI TV Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/daaitv.jpg" group-title="INDONESIA 2",DAAI TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
