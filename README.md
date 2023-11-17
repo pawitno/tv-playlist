@@ -130,16 +130,18 @@ https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10
 ##############################Live event U17 ##############################
 ######################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT U17", U17 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6MzA2OWEwNzItYmRjYy00MzdmLTkxMzktYzI5M2YwZjc0MWQw
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z3NvNj3Ywh2FE_7OneO4uPG1UrE=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-016904.jpg" group-title="📌 | LIVE EVENT U17", U17 1
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
 https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT U17", U17 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6OGNhZjE3MDYtMzk1Ny00MGIzLTkzZDctMjk2OWNjNTRlMTZj
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XctV0SMbsC6aONev8xFoKfceNbE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-9fa55f.jpg" group-title="📌 | LIVE EVENT U17", U17 2
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50
 https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT U17", U17 3
