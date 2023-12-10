@@ -115,15 +115,12 @@ https://mangga-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 ######## TRANS MEDIA ########
 #############################
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="🇮🇩 Nasional",TRANS 7 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:-1  group-title="🇮🇩 Nasional" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="🇮🇩 Nasional",TRANS TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:-1  group-title="🇮🇩 Nasional" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
 
 #EXTINF:-1 group-title="🇮🇩 Nasional" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -593,130 +590,130 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshij
 ######## Anak-anak ########
 ######################
 
-#EXTINF:-1 F tvg-id="biznetkids" tvg-logo="https://iptv.urfan.web.id/logo/bkids.png",Biznet Kids
+#EXTINF:-1 group-title=Anak-anak" tvg-id="biznetkids" tvg-logo="https://iptv.urfan.web.id/logo/bkids.png",Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids
+#EXTINF:-1 group-title=Anak-anak" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="MyKidz.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",My Kidz
+#EXTINF:-1 group-title=Anak-anak" tvg-id="MyKidz.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="AniPlus.th" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT2TPlTw9UEyby2dfW9tiLgEMqlO353dLvkDIUumg=s900-c-k-c0x00ffffff-no-rj",Aniplus
+#EXTINF:-1 group-title=Anak-anak" tvg-id="AniPlus.th" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT2TPlTw9UEyby2dfW9tiLgEMqlO353dLvkDIUumg=s900-c-k-c0x00ffffff-no-rj",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png",Animax
+#EXTINF:-1 group-title=Anak-anak" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
+#EXTINF:-1 group-title=Anak-anak" tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="besmart.id" tvg-logo="https://i.imgur.com/TeHjkIG.png",BeSmart
+#EXTINF:-1 group-title=Anak-anak" tvg-id="besmart.id" tvg-logo="https://i.imgur.com/TeHjkIG.png",BeSmart
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="BoomerangAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
+#EXTINF:-1 group-title=Anak-anak" tvg-id="BoomerangAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",Cartoon Network
+#EXTINF:-1 group-title=Anak-anak" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="cartoon.fr" tvg-logo="https://i.imgur.com/p1Qvr0I.png",Cartoon TV
+#EXTINF:-1 group-title=Anak-anak" tvg-id="cartoon.fr" tvg-logo="https://i.imgur.com/p1Qvr0I.png",Cartoon TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="cartoonclassics.fr" tvg-logo="https://i.imgur.com/I6B38ft.png",Cartoon TV Classics
+#EXTINF:-1 group-title=Anak-anak" tvg-id="cartoonclassics.fr" tvg-logo="https://i.imgur.com/I6B38ft.png",Cartoon TV Classics
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="cartoonpremium.fr" tvg-logo="https://i.imgur.com/luJJbEL.png",Cartoon TV Premium
+#EXTINF:-1 group-title=Anak-anak" tvg-id="cartoonpremium.fr" tvg-logo="https://i.imgur.com/luJJbEL.png",Cartoon TV Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="cbeebiesasia.uk" tvg-logo="https://i.imgur.com/43JFpOk.png",CBeebies
+#EXTINF:-1 group-title=Anak-anak" tvg-id="cbeebiesasia.uk" tvg-logo="https://i.imgur.com/43JFpOk.png",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="DaVinciAsia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
+#EXTINF:-1 group-title=Anak-anak" tvg-id="DaVinciAsia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="duniaanak.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png",Dunia Anak
+#EXTINF:-1 group-title=Anak-anak" tvg-id="duniaanak.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png",Dunia Anak
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
+#EXTINF:-1 group-title=Anak-anak" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="horee.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest",Hore
+#EXTINF:-1 group-title=Anak-anak" tvg-id="horee.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest",Hore
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="kidstv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png",Kids TV
+#EXTINF:-1 group-title=Anak-anak" tvg-id="kidstv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="miaomi.hk" tvg-logo="https://miaomi-tv.com/Public/images/miao-mi-logo-color.png",Miao Mi
+#EXTINF:-1 group-title=Anak-anak" tvg-id="miaomi.hk" tvg-logo="https://miaomi-tv.com/Public/images/miao-mi-logo-color.png",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="moonbugkids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png",Moonbug Kids
+#EXTINF:-1 group-title=Anak-anak" tvg-id="moonbugkids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="nickjrasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",Nick Jr. Asia
+#EXTINF:-1 group-title=Anak-anak" tvg-id="nickjrasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",Nick Jr. Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="nickelodeonasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png",Nickelodeon Asia
+#EXTINF:-1 group-title=Anak-anak" tvg-id="nickelodeonasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png",Nickelodeon Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
+#EXTINF:-1 group-title=Anak-anak" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="spacetoonarabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon
+#EXTINF:-1 group-title=Anak-anak" tvg-id="spacetoonarabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="toonzkids.id" tvg-logo="https://i.imgur.com/gdlqRUy.png",Toonz Kids
+#EXTINF:-1 group-title=Anak-anak" tvg-id="toonzkids.id" tvg-logo="https://i.imgur.com/gdlqRUy.png",Toonz Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 group-title="Anak-anak" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
+#EXTINF:-1 group-title=Anak-anak" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ########################
@@ -1060,155 +1057,4 @@ https://mangga-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://mangga-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 
-
-
-#########################   "Live event 1  ##############################
-#######################################################################
-
-                                       #EXTM3U x-tvg-url="https://o.dato.my.id/global/guide.xml.gz"
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=ZGVkMjE4MjRhOGJjZmE0ZThxdUwyeDNrMDlmU2RYa0tRQ1Q5UUUveFA5a2pZMFViZ1E1VjhObGp4UXlsTTBHV1gwdEtqU1RoSHYvU3lBZkIvT2hnZDFyVXk3S3BSQjVsQWwzcFJJOHArdGFRZU1RLzRLM1JpejZ2RC84PQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fuU0vRm_V3_hMVeCg2Dlt0gP0N8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3119258/d93ba3.jpg" group-title="Live event 1",[08.00] Cleveland Cavaliers vs Miami Heat - NBA
-https://cdx.dato.my.id/get.mpd?type=dash&ch=MGRiNjQ2ZDA2NjY3YjRkYjQzN29qcEY5clZ2a0dPYUtUd0dUMEoydEFaUFNRZi9yL2Z4cnMvTlFoTTR2eFBFckhwbi9PVTRncjFhMDNoS3FXeDlzZkw5eE02Z3phbjJxazVpaFFadkZGWXJMbnJqUHMxWHVxeVZnRWxVPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=NDViZjRjMDRkYmM0Mjc3YXBsYkVmK01EbTQ2N0w3OUtvUFNWK0QwbFBkWm80dWZNSGZoeTZONy9UR0dzM0RjVy92SnZxUnBxd2o1WC9GUGkydXRRU0xycERZNW9KejBJdmkraHF6V3VmcVZqL3BTZG9PQkhpOWxCM1lJPQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i61QfrO4XcDUkrNOtAFoUHJIPFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3117938/7a9300.jpg" group-title="Live event 1",[08.00] Golden State Warriors vs Oklahoma City Thunder - NBA
-https://cdx.dato.my.id/get.mpd?type=dash&ch=ZTNhMTQ2N2Y2NzIzNzFhZVBNNzdBdGFSSnRjRGFLd0F3N3MvNlVhMGkxUVREZ05VMVN4ckYxQ0RSNjloNG9CN2ROWVFnM3dEMU5YOFVDRWZqR20vSW9wM3RubG5jMllnb0VaTWFXOWRKVW5zd0JmVDl4U08xVkpwT2xNPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GAt0MvdNVJueCTTPbxDKd7D39AY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124351/05d1df.jpg" group-title="Live event 1",[14.30] Jelang Kick Off Pertandingan - PERSEBAYA Surabaya vs PERSIJA Jakarta
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=YTVkZTA5M2QzNjQwN2Q3NkVDMDYxV0RvM0sya2hCVmlacmdOZ0NjRjh3bjhVSldWdmdNcEVwUmtRVHBMVExnZ2ovVWJ6SWh6SHU2S05GTlM4a3AyYVFUdWF5MnpDTEkxY3pwd1NiVXNaZFJKb2FpRk8ra2pYbVdyTytzPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=MDAwNWQ0OGEwMGQ2NzFiN2lPdkQ5akgwQ2txc243VGxOOVh3VnZxWU82NFdFZ1F0eUlSWXB6RlZwTlNVc1NTemxRV1lmbW1UYlcwdGtsU1U0K0ViNVF2SnFiMTJzQ2xmc29SZTRqZ0x2NDdEOEpHMnVPN0NNdEtOZHZFPQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e5enmAQQJL10UuibjnVPxnxfE9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124350/33919e.jpg" group-title="Live event 1",[14.50] PERSEBAYA Surabaya vs PERSIJA Jakarta - BRI LIGA 1
-https://cdx.dato.my.id/get.mpd?type=dash&ch=Y2I2ZGRiMzE5MTEwNDBiOHpVcVhFMVNVZG1Bd1lMU2xwUG5KRUJ3Y1l6ak9UbEppRXlSL3ZyUTBSZ1Z2MThqVU51MWVjQWFGRmZ2eldRcmIyNmg2eDZyTFVSaytMK2YxQndWTDBlRHJXVjhzNjk1cjlHMUltbS82M05ZPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RJc4JYAjLnrvAxR4e75OLjZScfE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124343/ea1cf9.jpg" group-title="Live event 1",[15.24] PSMS Medan vs PSPS Riau - Pegadaian Liga 2
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=MzM0ODY5N2M0NDdkZjg1YWE4ZE9XREtEN3BGbFluTDRSbUNNd2wwU08ybFExZ2p1UVpRRkl4NERLcFBZV29IcTFoVFVjN3BGMmxCUHZ2emFRM3RReEpFNG9XNlg3MHVEQXkyZUhtZG9vOEFnSE5ETFgwNU9qeWlLSWFZPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EVCcRypznlprhMzqfDEg1-m2pmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124398/7c392a.jpg" group-title="Live event 1",[16.00] Perebutan Tempat Ketiga Putri - Popsivo Polwan vs TNI-AL - Livoli Divisi Utama
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=ZDQ2ODFjZjg4MjVkMDA0Y3IzRjdxTERPNlRSU3F4SGUvWSsxSW9RMVRrR0RFR0gvclVsY1A4cS9ITy9uKzFVL01IWWJDay92Mm5zTDVqWE9VdmtvT3dGSjl2UEZnUlJPUkpUU1F6SU9wUlQvdlBLeW1vdldWVldFRktZPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7zAzimpQEwAWLPEgng39RefGoTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124360/d3a994.jpg" group-title="Live event 1",[18.30] Jelang Kick Off Pertandingan - AREMA FC vs PERSIS Solo
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=NTE2YzliM2JjMjAyNDkzOGxWWTZHZm0zWUlOUk9iN0pmSThTQWQ5R2hQOUJYbkNxQStUNEFyNXVyY1BUcjM5WjZvVkQ2b1BYY0VraXBabFRFMUNhQkVVVlpuVFlqY3AwMkZobS9pYk5ScXZ0UEx3TWhTT3MvYmtla0ZzPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=NDNhZGMzNjY0MTk5OWRiMzVSTFdqVDREbVV5ZmNBajB5bG1JRzNKRU5xNXkwU3JPYzU1NEQ3T1g5cW5nNmVZR3FjSy8zaE1WTk8vTDY0ZnJ5R0hjZWpnVzFsQjNicFBFYngzaHJvVWQ2dVgxdGd4YkhYMzFXWFFFYmM0PQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C3n6ORPGXxKpyCpg_6ihVNyf5cg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124348/bdec16.jpg" group-title="Live event 1",[18.30] AREMA FC vs PERSIS Solo - BRI LIGA 1
-https://cdx.dato.my.id/get.mpd?type=dash&ch=MDliMzBlMWU4M2NjYjRmMjRpaFFYT1RGcGJSM3ZkcStmSEdLMUt1K0JkUkJjeHR3QmFNQStrUS9PbWlBdzlyU1dsd2ZoKzYrR0MrdERjekxBZzVzSUh1ZEYyL09jY1FSQTkxZXhpaktub2FpOW1HQnRaaG5FUG5MaERnPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Q-Zm95PsNdVDSvxM8G8FrTDNa6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124378/645e20.jpg" group-title="Live event 1",[18.45] Borneo FC Samarinda vs PSIS Semarang - BRI Liga 1
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=NzUyNWVlNjEyMDk5MzAzYTQ0aFNkNVZzd0pGclFCUkZyRDZOemVJZGMxMVB6azVSeEZFVEFpcmZMWDRJemtHNlBSN2pVWE0zYXdBQno1c3BkSG1OK1RncVZqZlhHWjZ0OHlONnZiZ3Vtb1pOM0QvZEMwc1BoYUVqMTVrPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JTFh-3lOCCkTLDHVArjVsp9BH2M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124399/b8200f.jpg" group-title="Live event 1",[19.00] Final Putri - TNI-AU vs Petrokimia Gresik Pupuk Indonesia - Livoli Divisi Utama
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=MmVkM2U2MGQ4YTQzZmEyNXY2aHNCdEhXUFRuTDkzbTNHWUdDdkNURzRrS0F2ZkFsSmY5UDhGdTJDcmJWcnkrMlRHUkpmbEkxeXhZMnI5dUhtRVVlTkkvRk1Gem41dU1Za1NoT3QvMXJlTWZEaFB2dHRnNU9zWU1lVHNFPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=YjJhMDZhZWVkYWZiZDJhNVlyQlJubzVhTWk2UHZXMmV6L2xQa051NlAvaG9XY3UxdndnVVh1aU1wWnM5SUUyY3RLZVBabGZNUTFXbDI5UG44eklGZG9xTGpXd21WeXlURnY4MENzTzZOQWNST3hwVkVQdXcrZHhxckdvPQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bXL8Npm5oSCiGc2v9xeyixy54zY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3118538/1b1876.jpg" group-title="Live event 1",[19.55] Alaves vs Las Palmas - La Liga
-https://cdx.dato.my.id/get.mpd?type=dash&ch=N2I5YWRiOTdlMTFiN2MwZDhaVWxDQk5EaFNZTks5Z0Z6bjZqY0VEMkl0YmdDU3hLaUZDc2xvclpnNlhaM29CY2ptdm9IWjhmVm5uKysyS1E1WXVacktmRFJSUzllcnlxVEgxTGhBSWNSRkI2WXVBN2NoSG0yY2NPZEtVPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=NjRhZDZjYTc1YmIyZjRjYVJkbW5uVE16WEZtKytRNE1WdkFDME4rbnkvcHJIUEcyUUROQysvVUdxdmpmTFlGWkxhcTlaR1JyR0p3UDcrSW5TeUp4V2V3bGhwbkFpb05lTTRreVM2eUVJWk5ybVgrT3dkUXRCS2FSOFY4PQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oFPX-Q_48qitNXu6T0aV_lwwcnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3124340/566e58.jpg" group-title="Live event 1",[20.55] Verona vs Lazio - Serie A
-https://cdx.dato.my.id/get.mpd?type=dash&ch=YzEyMjY1ZWM5ODhjMTkyNUg4K1NZdVJJWjczTlFXU0hySkpkaXp4TU0zV1YrK1NHM3hRUEZSY1UwQU1PQURjSzNkUmxBS29FbEFPRktXa0p1Ti9qTUw0c1R0NHNLb3dMUXdDZk5hYyt6MndmcFA4UnI0bU1BaDMxZWZzPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6KxOmLmcYOqU0ikkbnsPnsUOxCc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3126352/4dcc6b.jpg" group-title="Live event 1",[21.00] Awarding Ceremony - Putri
-https://cdx.dato.my.id/get.m3u8?type=hls&ch=NzBiYTQ5ZmNkNTUwMjI3OThlbytEZWxOOUV0N1NaVlcxUDZCSVc2OVVJTStNZ0FwZmsvZHIrWGRmWis3NTNvUDdINlhWWWJYZVkxUG92ME9lZEh2dzBSY1d2ZFFiQ25WVXRmMm5KSVdRejdDZ1dEM1FLSWdmVXM4Q3lVPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=YmQ2YTc2ZTdiNzJhYWY2MjBhdnVTRDh1RElRSVR5Y1NlMkdGYkgyQXFaeFFnblRudlEzbERlSE5Odms2NG1MbUxwSjlLZllQYmdJem1TOTNpMlJPYTZQNWdWYisyc051eS9td1NUSFVZM1BpY1dmNDJnb1o3OVdJcldFPQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/h8iJX9sYPKCYLEJw7yL1S3IG1fY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3118540/0a86c0.jpg" group-title="Live event 1",[22.10] Real Betis vs Real Madrid - LaLiga
-https://cdx.dato.my.id/get.mpd?type=dash&ch=YzE4NGE5YmFmY2MxMDhjNVlSWlk3TFpRamJXUW45bDVqWFowT1QrK2JCOHRTNjV1RDJJNi9WMEYvZTdQOGNFMmhuYjdxVTk3c2tGSkZweGZRNFgvT2tzdW5xRE5PZlZNNXNqa2VMY1ZHRG9zQTlhY0ZocXZydnpOZnVNPQ==
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.0.9-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdx.dato.my.id/cenc/?key=ZDUxYWYyNWUzNTU1YmE3M3JrRFZlMVc2a0htQUNWbnF3SEVrOEcrYnVQU0tYYkFKejdWdXp3c0ExN3crYlh0SGVnamdyeUxGU0lWVHpjM3NkUzB1alFNTTNDcE56WmJNOGc0Z1BBWjVIOEFla0c0WFAvVWh0a2IzWkZzPQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/043f1GnJjL49CviykldD0Qtv6_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3126340/824c4d.jpg" group-title="Live event 1",[23.00] Rennes vs Monaco - Ligue 1
-https://cdx.dato.my.id/get.mpd?type=dash&ch=NTAzZDk3ZDY0YWE3ZTFmMlVQbDlBLzVIeFJUV0FKV04zQXY5VDltMURMK0U4M2dUby9ETHZhOTJUWGM4TUJkZlcyRXEyN1c5ajF4YnNtKyszS1BleUcraEwxMUpBTzZTVjNlR1ErQ3BiRy9zM21GQVFuU3FXVHZPaHVrPQ==
-
-
-##############################Live event 2 ##############################
-#######################################################################
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 1
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 2
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 3
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9aaeb3f74e57ee6d32b2b00359e711c5:8edaf24345beda77edb5430f76153e5d
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 4
-https://production-drm-vidio-com-event-10.akamaized.net/out/v1/194c465439d64a83ba65537ca86180a3/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7990eaceef137ccf32106593abd33c3:67d835357d1f5b42b91ef27181d04fd4
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 5
-https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36d6fcd4402da11397ea4182101df094:d0f61dbd6f228467a3e0d7caa7ee8031
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 6
-https://production-drm-vidio-com-event-4.akamaized.net/out/v1/f5e1e4dc70e54d2eb4020b7af8eeb925/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 7
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 8
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3eed2a9bd7a7f4aaf2709e960b4353ae:3913a253cf7557484b88223418a97815
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 14
-https://production-drm-vidio-com-event-9.akamaized.net/out/v1/aaf192224b5d4f6d92b52f9e8987f0e8/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 15
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event EPL 1
-https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event EPL 2
-https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event EPL 3
-https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
 
