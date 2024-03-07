@@ -202,7 +202,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 
 
 ########################
-######### Movies #########
+######### MOVIES #########
 ########################
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/imc.png" group-title="MOVIES",IMC 
