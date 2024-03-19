@@ -29,105 +29,105 @@
 
 //copy right by,@hometv menampilkan playlist >>> " TV Nasional🇮🇩"
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="🇮🇩 " TV Nasional🇮🇩"",TRANS 7 Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title=" TV Nasiona 🇮🇩"",TRANS 7   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",TRANS TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title=" TV Nasiona 🇮🇩"",TRANS TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="🇮🇩 " TV Nasional🇮🇩"",INDOSIAR
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title=" TV Nasiona 🇮🇩"",INDOSIAR
 http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/94
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",SCTV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title=" TV Nasiona 🇮🇩"",SCTV
 http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/95
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title="🇮🇩 " TV Nasional🇮🇩"",RCTI Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title=" TV Nasiona 🇮🇩"",RCTI   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",MNC TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title=" TV Nasiona 🇮🇩"",MNC TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-/sa_dash_vmx/MNCTV-.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",GTV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title=" TV Nasiona 🇮🇩"",GTV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-/sa_dash_vmx/GTV-.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title="🇮🇩 " TV Nasional🇮🇩"",iNEWS Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title=" TV Nasiona 🇮🇩"",iNEWS   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title="🇮🇩 " TV Nasional🇮🇩"",TV ONE Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title=" TV Nasiona 🇮🇩"",TV ONE   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/antv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",ANTV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/antv.png" group-title=" TV Nasiona 🇮🇩"",ANTV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",NET TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title=" TV Nasiona 🇮🇩"",NET TV   
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/637
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",METRO TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title=" TV Nasiona 🇮🇩"",METRO TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",KOMPAS TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title=" TV Nasiona 🇮🇩"",KOMPAS TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",RTV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title=" TV Nasiona 🇮🇩"",RTV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/vtv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",VIVA TV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/vtv.png" group-title=" TV Nasiona 🇮🇩"",VIVA TV
 http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11833
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png" group-title="🇮🇩 " TV Nasional🇮🇩"",BERITA SATU Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png" group-title=" TV Nasiona 🇮🇩"",BERITA SATU   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png" group-title="🇮🇩 " TV Nasional🇮🇩"",SINDO NEWS Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png" group-title=" TV Nasiona 🇮🇩"",SINDO NEWS   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnn_indonesia.png" group-title="🇮🇩 " TV Nasional🇮🇩"",CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnn_indonesia.png" group-title=" TV Nasiona 🇮🇩"",CNN INDONESIA
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/40.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png" group-title="🇮🇩 " TV Nasional🇮🇩"",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png" group-title=" TV Nasiona 🇮🇩"",CNBC INDONESIA
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/41.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title="🇮🇩 " TV Nasional🇮🇩"",TVRI
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title=" TV Nasiona 🇮🇩"",TVRI
 http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/12048
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/jaktv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",JAK TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/jaktv.png" group-title=" TV Nasiona 🇮🇩"",JAK TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/daaitv.png" group-title="🇮🇩 " TV Nasional🇮🇩"",DAAI TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/daaitv.png" group-title=" TV Nasiona 🇮🇩"",DAAI TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -136,63 +136,62 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 
-
-
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>>" TV Nasiona hdl🇮🇩"
+//copy right by,@hometv menampilkan playlist >>>" TV Nasional HD🇮🇩"
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title=" TV Nasiona hdl🇮🇩"",TRANS 7 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title=" TV Nasional HD🇮🇩"",TRANS 7 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/623
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title=" TV Nasiona hdl🇮🇩"",TRANS TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title=" TV Nasional HD🇮🇩"",TRANS TV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/634
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title=" TV Nasiona hdl🇮🇩"",INDOSIAR 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title=" TV Nasional HD🇮🇩"",INDOSIAR 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title=" TV Nasiona hdl🇮🇩"",SCTV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title=" TV Nasional HD🇮🇩"",SCTV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/622
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title=" TV Nasiona hdl🇮🇩"",RCTI 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title=" TV Nasional HD🇮🇩"",RCTI 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/630
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title=" TV Nasiona hdl🇮🇩"",MNC TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title=" TV Nasional HD🇮🇩"",MNC TV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/631
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title=" TV Nasiona hdl🇮🇩"",GTV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title=" TV Nasional HD🇮🇩"",GTV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/632
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title=" TV Nasiona hdl🇮🇩"",iNEWS 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title=" TV Nasional HD🇮🇩"",iNEWS 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/633
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title=" TV Nasiona hdl🇮🇩"",TV ONE 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title=" TV Nasional HD🇮🇩"",TV ONE 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/635
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/antv.png" group-title=" TV Nasiona hdl🇮🇩"",ANTV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/antv.png" group-title=" TV Nasional HD🇮🇩"",ANTV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/636
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title=" TV Nasiona hdl🇮🇩"",NET TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title=" TV Nasional HD🇮🇩"",NET TV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/637
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title=" TV Nasiona hdl🇮🇩"",METRO TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title=" TV Nasional HD🇮🇩"",METRO TV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/638
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title=" TV Nasiona hdl🇮🇩"",KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title=" TV Nasional HD🇮🇩"",KOMPAS TV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/639
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title=" TV Nasiona hdl🇮🇩"",RTV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title=" TV Nasional HD🇮🇩"",RTV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/640
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/vtv.png" group-title=" TV Nasiona hdl🇮🇩"",VIVA TV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/vtv.png" group-title=" TV Nasional HD🇮🇩"",VIVA TV
 http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11833
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png" group-title=" TV Nasiona hdl🇮🇩"",BERITA 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png" group-title=" TV Nasional HD🇮🇩"",BERITA 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/5792
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png" group-title=" TV Nasiona hdl🇮🇩"",SINDO NEWS Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png" group-title=" TV Nasional HD🇮🇩"",SINDO NEWS   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnn_indonesia.png" group-title=" TV Nasiona hdl🇮🇩"",CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnn_indonesia.png" group-title=" TV Nasional HD🇮🇩"",CNN INDONESIA
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/40.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png" group-title=" TV Nasiona hdl🇮🇩"",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png" group-title=" TV Nasional HD🇮🇩"",CNBC INDONESIA
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/41.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title=" TV Nasiona hdl🇮🇩"",TVRI 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title=" TV Nasional HD🇮🇩"",TVRI 
 http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/12048
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/jaktv.png" group-title=" TV Nasiona hdl🇮🇩"",JAK TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/jaktv.png" group-title=" TV Nasional HD🇮🇩"",JAK TV 
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/5793
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/daaitv.png" group-title=" TV Nasiona hdl🇮🇩"",DAAI TV Auto
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/daaitv.png" group-title=" TV Nasional HD🇮🇩"",DAAI TV   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
 
 
 
