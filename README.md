@@ -571,6 +571,42 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++ MOTO GP +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="MOTO GP",SPO TV 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="MOTO GP",SPO TV 2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="MOTO GP" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 group-title="MOTO GP" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+
+
 ######################
 ######## Pengetahuan ########
 ######################
