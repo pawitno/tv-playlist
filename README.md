@@ -846,7 +846,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="SPORTS INDO🇮🇩",MOJI HD
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/117
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/sportstars.png" group-title="SPORTS INDO🇮🇩",SPORTSTARS 1     
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
