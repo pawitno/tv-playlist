@@ -111,10 +111,11 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="Nasional auto",MOJI HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="TV Nasional auto",MOJI HD
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="Nasional auto",MOJI HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="TV Nasional auto",MOJI HD
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRObO5MWvfa1FnZHk_9DMUuY
+
 
 
 
@@ -1262,3 +1263,4 @@ https://ctrl.laotv.la/live/TrueSport3/manifest.mpd
 #EXTVLCOPT:http-referrer=https://laotv.la/
 https://cors-proxy.elfsight.com/https://ctrl.laotv.la/live/TrueSport3/manifest.mpd
 
+>
