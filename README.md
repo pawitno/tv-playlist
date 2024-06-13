@@ -13,6 +13,29 @@
         <p><h2>iptv.urfan.web.id</h2></p>
 	    
 
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> UEFA EURO 2024
+//========================================================================
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 1
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 2
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12586
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 3
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 4
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 5
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 6
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 7
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+
+
+
+
+
+
 
 
 //========================================================================
