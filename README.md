@@ -13,25 +13,94 @@
         <p><h2>iptv.urfan.web.id</h2></p>
 	    
 
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> UEFA EURO 2024
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 1
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 2
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12586
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 3
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 4
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 5
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 6
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title=">> UEFA EURO 2024 <<",EURO 2024 - 7
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
 
+
+```````EVENT WCQF``````
+
+#EXTINF:-1 group-logo="https://digitalhub.fifa.com/transform/83cb026b-fd8b-423a-875a-46894cdab3ac/FWC26_Qualifiers_Logo_White_transparent?io=transform:fill,height:128&quality=75",
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇴🇲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey.my" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+#EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+#EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇰🇼
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇧🇭
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
+
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
+
+#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
 
 
 
