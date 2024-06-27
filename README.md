@@ -43,21 +43,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRpl
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
-##########################
-######## FILM BIOSKOP ########
-##########################	
-#EXTINF:-1 tvg-logo="https://artist.dutaFILM BIOSKOP21.cloud/wp-content/uploads/2024/05/iADOJ8Zymht2JPMoy3R7xceZprc-152x228.jpg" group-title="FILM BIOSKOP"Furiosa- A Mad Max Saga (2024)
-https://d35.doodrive.com/d/6vo7wy?d=c7ffbd00a6f2e320e187c93a
-
-
-#EXTINF:-1 tvg-logo="https://artist.dutaFILM BIOSKOP21.cloud/wp-content/uploads/2024/05/gKkl37BQuKTanygYQG1pyYgLVgf-152x228.jpg" group-title="FILM BIOSKOP"Kingdom of the Planet of the Apes (2024)
-https://sto46-eu.zcdn.stream/763755f5b5714e3396c5212e0e2bddc1/2024-06-25/720.m3u8 
-
-#EXTINF:-1 tvg-logo="https://artist.dutaFILM BIOSKOP21.cloud/wp-content/uploads/2024/02/2qVmK6l9jKQ4EJbP30oGX5Tq9uV-152x228.jpg" group-title="FILM BIOSKOP"Jagat Alam Gaib- Sinden Gaib (2024) 
-https://hls44-eu.zcdn.stream/8527d70e8c58d37b371d39cfb6228bdc/2024-06-22/1080.m3u8
-
-#EXTINF:-1 tvg-logo="group-title="https://artist.dutamovie21.cloud/wp-content/uploads/2024/01/u5uK4LpG4fpfeuQkt3klElAHT4z-152x228.jpg"FILM BIOSKOP"Sehidup Semati (2024)
-https://sto45-eu.zcdn.stream/96ec1c2673429b2aa5503ecf8a347d97/2024-06-24/720.m3u8	
 	
 	
 ##########################
