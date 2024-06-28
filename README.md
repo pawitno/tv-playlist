@@ -17,7 +17,7 @@
 #############################################
 
 	
-	#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 
 #EXTGRP: EURO2024
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -49,40 +49,40 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #########== LIVE COPA AMERICA 2024 ==########
 #############################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="COPA AMERICA 2024", CH #11 (BelzieTV) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="COPA AMERICA 2024", CH #11
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="COPA AMERICA 2024", CH #12 (BelzieTV) 
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="COPA AMERICA 2024", CH #12
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/352090
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 1 (BelzieTV) 
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 1
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 2 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 2  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 3 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 3  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 4 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 4  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 5 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 5  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 6 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 6  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 7 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 7  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 8 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 8  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 9 (BelzieTV)
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 9  
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="COPA AMERICA 2024", CH #10 (BelzieTV)
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="COPA AMERICA 2024", CH #10  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
@@ -1074,47 +1074,47 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 1
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 1
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 4
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 4
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 5
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=482839_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 6
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 6
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5481_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 7
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 7
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208134_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 8
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 8
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564955_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 9
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 9
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 10
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 10
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 11
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 11
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 12
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 12
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 13
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 13
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649227_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 14
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 14
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=833284&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 15
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 15
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=425666&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 16
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 16
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=116252&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 17
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 17
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=71907&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§" , LIVE 18
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS" , LIVE 18
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=636921&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 19
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 19
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078724&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§" , LIVE 20
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS" , LIVE 20
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 21
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 21
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§ ", LIVE 22
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS ", LIVE 22
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="ðŸ‡¬ðŸ‡§LIGA INGGRISðŸ‡¬ðŸ‡§", LIVE 23
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 23
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
 
@@ -2244,6 +2244,11 @@ http://j.mp/2bFRyBF
 #EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFREcc
+
+
+
+
+
 
 
 
