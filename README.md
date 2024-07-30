@@ -12,7 +12,23 @@
 	    <br/>
         <p><h2>iptv.urfan.web.id</h2></p>
 	    
-	
+
+ ############olimpiade paris###########
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="olimpiade 2024", EUROSPORT 1 
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="olimpiade 2024", EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
 	
 ##########################
 ######## tv nasional ########
