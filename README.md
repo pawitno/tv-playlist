@@ -99,6 +99,354 @@ https://mew.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDEzMjc5MDgiLCJyZWZyZXNoX3Rva
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://all-drm.my
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH1
+http://edge02.odtv.az/o7/eurosport/q_0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH2
+http://edge02.odtv.az/o3/eurosport2/q_0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium249/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium244/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium245/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="OLYMPIC PARIS 2024", LIVE CH7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium246/playlist.m3u8
+
+
+
+
+##########################
+######## tv  TV Nasional ########
+##########################
+
+##########################
+######## LPP TVRI ########
+##########################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="TVRIWorld.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+###########################
+######## MNC GROUP ########
+###########################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+#############################
+######## EMTEK GROUP ########
+#############################
+
+
+================================
+================================
+================================
+
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/sctv.jpg" group-title="TV Nasional", Sctv HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzA5NzI2ODQiLCJyZWZyZXNoX3Rva2VuIjoiSEJaV21tSU1JaExjUUJTenVUMlwvaVQyU3JLZzBuNmJ1Ym9ybjVndkVvU2xkV2xXc2ZWcWdSRmxNR1RVRXFkSDBsNFVSTkNWNU9LMXNJQTcxNGQxbXFXRzhtSnFrSmkrQ3loXC85SkRxMHpLSmZobUpWcVEyb0pzOTZVUXhaRlM3Q2djeFNjZGlBUkRlcDVjcmhnV0NGdmpzdGdid1BBQzZVcUZmaHFyQURkU0E0bWt6WjRuZDNnUTdrWkJibEZPVzNLSlZ0SU1PeG5ORlBIY2ZqYXA5TlhzMERiTjZxRWphcU5tTXB5ZFdzeDYwTlRzXC8yNDlSV0s3Y1BuQktyNWpabTlkcVVLXC9maHN1Sms0bVBLY3ljSk1obHZnSUlCeFp2Y0lTTzB0QUFUdVI5QmowUTE3Z2VvaDlGQitBVEhuRk8rIn0=
+https://mew.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTMyODQxOTYiLCJyZWZyZXNoX3Rva2VuIjoiUGliRFBmRWVkNkVJQ3V2eVVTWnZsUE40ajJDMEtoQlFBT1VWWTFWT3pzdmhcL0dKWmJXQklMR0JtNHE1UEJhMlpPMDBMOE1ubEhNWGFHUnluMm1xZnZwY2FLNU55R0Z3ZDF3OXJ3eFlNZmN6d2p4MTZ2WnA4NGJoeXdJa29pZVpcL0FkXC9Yc0hFM25nOERQUjJjXC94bHJmbmJvNTQ1VWk0MGlNeEhNQlZMSzk5MGNBTTV5NnljaWZkc1U1c1kzTFUxMExrM2ZPXC9jYkFMYzhJSWxGNTNKXC9aZktsZXFwKzduT2VVWVlYcm1EekQzVmszRHJ6S2pOSEZUV0JsMWhneVg2Z0s5Qlh5WHd2UzlJNFB1anpDN3Jxd3k4XC8wWnhEYWlwOTBXd1dnclVDVGJ1aUFJMEl2N0NRRkxSK09nVUh0cHBMaUlyV29HQXpuTzBTU3dMeGdNbEtDSkk3RWZYUHpkTVwvTVJTSlwvalJTVW9Ca0lYYkIzaXhyYXpicmxRazZBT3o0In0=
+============^^^^==================
+================================
+================================
+
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV HD
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+================================
+================================
+================================
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/indosiar.jpg" group-title="TV Nasional", Indosiar Live Event
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+https://mew.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiNjA3ODQzMjkiLCJyZWZyZXNoX3Rva2VuIjoiUVwvOGg1UjA0WW9zaVoyK2NIR0thR21yUVloYXZXMmlxVm1ONitqZ3dcL1pTa013U1lnQmphK3JsZlhGV2JVQ3JCVW1sXC81eWRnaGwzMkdRSHFEOFlmRUtNTHpnbjRGVVwvaXA5NlBoN1JSTGpsdVR3TWtzdGVJYnRlaVFpb0RUTVRjMjd2R1VFdDlObjFMSmpvVVFuRkhKVW9meWQ1M2RTRlZvUUk5aWwwWEpjUEJyd3djRDZGMGRkbjJIbnBBUTdkT3IxRjhMVk5xdDMrbDMzaHBtK3gwbkpwRlFibWNIQWQ1USt6bktNSWpha2pHUGdJb0pFSVBjenk0UVgyY0ZKblgrYnU5SmoyQU1tZ1pXUWthejJEZzhuT0lGcnRhU24zdVJTbFF3NlNJU0VadWJwcVR0UWZVcmRhNW55akVKUlwvViJ9
+
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/indosiar.jpg" group-title="TV Nasional", Indosiar HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjY3MTgwMzkiLCJyZWZyZXNoX3Rva2VuIjoiY0FJOXhQXC9ZajkwTk9raEdoWjA5XC9KMlVtQ21GczlWQ2VNMjNjZ3JyT3hnY0tadUx5UTBoSFBnZytRZnE2UlorRGFHWm5ib3BEK1I5ckx3NjBoODB6QVBrRnNweXYwMzRMK3ZiYWd5TGVxXC9JRjFVMUdYNEI5MHdZVU81RmxrU2JhVXJkQ2Vta1o2cXdwSkNKcGxhanhpcDY2K3BBMFFBK1JuSFRCd0pqRTVuWlp0R1B2bFBKaUFhWUErdlIrK1gyVlgwYmNIZ3RObUU0MWtnMW9MM0RvcmxNN3l6bTQ2XC9YT29LQVwvb2FiTlFCTjB6T21hakZQVVlOVGZDTlhMaFNEMnNCQ3pUSXUzUjREdVlIVHVMTWFCVUtXS2RBak9kV0oxTDduTE1LRTVtK0lFUkRrR1hKbXdjUTlFeWdUOUZ0aCJ9
+https://mew.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjcxNTQwMzIiLCJyZWZyZXNoX3Rva2VuIjoiSXpKWXB1RzRIUVJBU3pxcVJZMFhHXC9ITzVYRjJjaExOXC80a2g3dzNadDdaaDdYelJyWSt4dkNuaUc2UTV4MTF1M1wvMjJiMFJDR21nalZqWE9nYzA2elVqWlhOMlpNNVNrVENmYk9xeWNtZEp0bDRoUjNhbFZWXC9qc3pcL3pEOG5OWlZ3dkdQdU5uWnVUK29hb1kwYjNlUGM3cjZ1cU9rUnR4XC9nWXJ6TWs5c0lTQWZ2ZjliejBDSTRLSzdHM1pcL2drS1RcLzBlZUphNURKZERJWUpoVmlHQWxBQ2NXdEJCV3VkeDJWOG5Gb25IS0xGS3VyNWw2WTFuRk4rN0JXRXc1WWxLVnl1ZlpvSWlyOVVOXC9sYndVeFFPK2R2YU9DTHBvQmNPZ285dlpyZUlZQXJQQXZITW1EbUk1VnJabzljdG8raDREbzJxa3FEWVV2Y0VsQTN6SjZiUHFxaUlleEZpMXNUK1lMQ01jSEZnUE8yU1ZTTGptbFhVb1wvWm12OWk3elwvak0ifQ==
+================================
+================================
+================================
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+================================
+================================
+================================
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/moji.jpg" group-title="TV Nasional", MOJI Live Event
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+https://mew.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiMTUyNzkzMDgiLCJyZWZyZXNoX3Rva2VuIjoidlwvTkV5OTFsZ1hBTnppQlwvK2hFUU5jYWprS0hjTEp6Tlh5dTY2UHBacUhad3lJZ20zOVwvQmhJNkZxcVc1OVE5Y2lNVkdtM2pCMTFMeUd3Z3RLOGJFWDFKZGkxNlV4emZ2Z2N2ZmtcL3h5U01OeitmUEJkdENPRCtLMlRoa2czVzBrMjRlSDVHUE9zR2JUZ1l1aW8wRDRVeVBhcGJVeE5mUk1TdUJodWFGdTE2b3JIbWVvTW5uNHdVXC9wVGlTelQyZXNaUG02NmFZZFB3VFJqcnlJVXg1VzJTSnJBd2hPK1VTbjIxa214dVwvSmdHV0FPazk5SjlOWmthUEE4SWVIRlp4Q0lzaENjQXNZUEgrcHFBcVRpYk5xSWdKaVE3Z2xuTElBU2w5ZWwxWkVTVG91Q0NsVzBrWCtsTVdiaFZtT044MjgifQ==
+
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/moji.jpg" group-title="TV Nasional", Moji HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzYwODI1MTQiLCJyZWZyZXNoX3Rva2VuIjoiSUhIeW5JNmNvWTh3ZkpxQVg2UWZ4bk5FcXZnWkMxWmNSMVdsUmN1cUZIYnVDeDY2ZlwvMFB5Wm41K0UybDBXNkZORVl1UGRZTFk3WUZmNkFISHhrT0pUalY4bXFENjMyY0VBUHNhUTBVVHFheUJyWW9DdHBQTDVYWDlJN2lGc3pqXC95RDY0U3pUdDBvWUNUdFRqNklmblM2YjJPVHNYNEJNMlppc0YxdGdVZmFHT3g1SnJxdkdcLzJ6dG9WUEF5d2NkeUlJRWlcL1wvdFwvNkRRcTlVdmNzaVpSUFBaUEU5amx6YkQ5cWE0VlMxcTZJRGhiWmkrbGZLWE5aR3pFOW9TTDkwZGdrU1ByTFJ6ZTV3VnhRY3pFeUF0d1hpWkdsWWVlVHVCUkorc3FydklJaDZXUGZ2WHVqQVd4SHM3aVJDY3o3Y2YifQ==
+https://mew.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTkyMDM3MTQiLCJyZWZyZXNoX3Rva2VuIjoiS1ZWSzE5aXV5emJzT3A2OEtaOVBBVGthTkI5MWprUlUwVmJNN2xyQ3h2WkdOZVMzeTNhN2o4anhLSTROb21ZdVAybkNaSFJZK2dlZ3I4cDV6V2lBWDVSYmN2YVJNeUUxeUM0YXN4M25YdnFcL2FPcGNITzJPREdvTkg4a0ZlY3FCTzB2Z3FxMWpTZG41TkZjcEJvb1hkbXpkZ1dLUVZtY09SNTJRdkFcLzlcL1p3aWJUaEo1Q1hTQzBCNmc5MFcreTNsK1wvcXRzbisza25oZUhxeUlIMkYyXC9ZMGpwQ0QxbjA2Qmg4c3lIWnJzYmdVV1pKZlFzVEZPV1YySTBwZCtTTkVSN3JIMWM2V1dxZTdzVmtMSHJjeHhuZXBpbHZ2NGJrbHBmRVhOOWE0K1NcL0s3Q0trdHRXV0lpZUR6RTB5YUJFRjNYMjMyWlZBcWVVZm9XYkRoM0pmaDZZVk5taWZIYU5KTlU2N3Vqek94cUVzUVpTc0l2VFRqRDRjenFrenRHc1EyIn0=
+================================
+================================
+================================
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+
+
+############################
+######## VIVA GROUP ########
+############################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.19-prod.release+3f522af2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch108.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.19-prod.release+3f522af2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
+
+
+#############################
+######## TRANS MEDIA ########
+#############################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV HD
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+
+#############################
+######## MEDIA GROUP ########
+#############################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/XKueVSGTk2o/master.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.19-prod.release+3f522af2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.19-prod.release+3f522af2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+
+#################################
+######## KOMPAS GRAMEDIA ########
+#################################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
+
+
+##############################
+######## NETMEDIATAMA ########
+##############################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
+
+================================
+================================
+================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/widevine/?key=eyJ1c2VyX3Rva2VuIjoiMDQ4MTk2MzciLCJyZWZyZXNoX3Rva2VuIjoiQnltTjlhS0dBYTNlWHliV3ZxMmtyQzhHNTczR3pkQ3hIN1RLTXVubVRxUTlyWDhGZlJISlA3NXVsU2VlQzFJNnpFMit1K1ordWxGNTh5WVE3emplTGI5Y0xLWW5pR0NBelhxUk9NXC9kTjFkUGpmS1I4OVwvczZzQXN5c0RkTm5vUFg3cEEwK3VNbmdUVkdXcVluaGE0d2txYUliMWYxaW9oM1JBOUlVa29ncThvTXYwSFJwXC9DeEpmTDd6YnJDQkgxTTdQMHNEc0xxRnZpcXN2ZDdXZ3NzeWhneXZPZExjVWRSUjNCZFQ4Z0d0TGI1Y1JoM1wvNUgzMjNkZjlKMExvOHR6ejhaaFNhRk9sQSsycHlscVdLV0RSR0VzTWNFbk9DSkk2a2ZJUEhzVktjYUpzN2trU2Iyc1Bha2d5YlpCVUhsek1MVWZuRGhSVDJxXC9KVjFndjNjOFZwXC9wY3Q5dVNSM204VEVqeXRoMEJBV055cFhYakFyZjJaVkVLd2NQMGhIIn0=
+#EXTINF:-1 tvg-id="2830" tvg-logo="https://andoridev.github.io/qihan/logo/nettv.jpg" group-title="TV Nasional", Net.
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://mew.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzA0MTg1NjIiLCJyZWZyZXNoX3Rva2VuIjoiK051c0NyN3l4TURYN2ZUZDcycWZXSk9UTFwvZUMyK1NYamRlSHpnc0szSGJTYTM1N2JCclZoRHNtK3NQdjhiamFjVElUcGlwSkpDZzRZM1JsaEwwdFpxeVc4UGtyNFJJYWhTZVhjbFlWOTd5MDlGSTA3TDh4eWVCTU9JbjM4OGFqQnRZR000azRcL0ZHU0ZMR2kwVlhBbzN3TjY4bjhXcUNYRmR1QWZuWlJGT2R4THZiZ0VlY1dPM2REYmg1d1lUZDhyVndOMm5hOTZoTzZORk1mQmVlWXdWMmt4MEJFZDdCdlRKNFwvZzZoWHRER051NEFOQ1JlRE5GeldwYWFGaWI4UUx0S1BscTMzWHRLQ1NzejZkVkhmK3pFS3o0THFrcnBqTXg2SldNcHAySUxIR3Z2WXVVOW5JVURtb0ZCckJqOGxOQmNmN1hHanlmb3RZaERHQWhBNFZZeE5XalJENTI2VVorbTVHaXczM2NvYlhUcTdMYXVjXC9LN0tKaVV6TWlxUiJ9
+
+#EXTINF:-1 tvg-id="2830" tvg-logo="https://andoridev.github.io/qihan/logo/nettv.jpg" group-title="TV Nasional", Net.
+https://mew.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNjMwNTEyODQiLCJyZWZyZXNoX3Rva2VuIjoiRG96a01QemdDU2ZXTmRWXC9xalJZNkthTmZvamxPTzFidmVrbmlIUUlaOWNZbkc5QTlPWFJuWXZDRXVyM2llOWhhUU16M0krRWhVUWdka1dxUU1PT1lUb1V6VkUwTDRJc293eDdnY1Z4ZGYzM1dqVjFtQXdDYXBpZ2dhcFlLbHJrd3JGQWJscnhyNjlcLzRGODRqMXRuanpRcFJ2WEVPWThDdldLV09aZG10OFpXOUo4XC9uZ001XC9mOG1HNVBNOVQrQ2VyTmQ0SitnaTMzQU9DbjVhdHpaSVBcL2FhTGVvc1p5QXB5ZmNqRHJkM0R1XC85NTFqMVNLZFduRkl3aVBpNURiTjF3Y0hQRmFoR2dVN1BXRXRJOSsyTXFYQm1Vb21qZDN0V2pEeHRydGdxMnp0NEJ4d1lIaDRtMEp3bEFybGt0VW9hd3oxekVJVkhXNEt0d2xYRXYwM1VWcXAzYk1ncUt1K3RkNVVsU0piQmFjPSJ9
+================================
+================================
+================================
+
+###############################
+######## RAJAWALI CORP ########
+###############################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.19-prod.release+3f522af2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch115.m3u8
+
+
+######################
+###### LAIN-LAIN #####
+######################
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="GARUDATV.id" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="daaitv.id" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/UCn-Ex0zXXTVElhMr12o0zwA/master.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="seatoday.id" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
+#EXTVLCOPT:http-user-agent=YouTV/1.7.19-prod.release+3f522af2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch106.m3u8
+
+
+
 ########################
 ######### MOVIES#########
 ########################
